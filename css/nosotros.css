@@ -1,0 +1,22 @@
+/*SOBRE NOSOTROS*/
+#sobrenosotros{
+	background-image: url("../img/dance_7.jpg");
+	background-size: 150% 130%;
+	background-position: left center;
+}
+#us{
+	background-image: url("../img/random_grey.png");
+	opacity: 0.8;
+	margin: 20%;
+}
+/*PILARES*/
+#pilares, #frase2{
+	background-image: url("../img/cubes.png");
+	background-repeat: repeat;
+	background-size: initial;
+	padding: 8% 12%;
+}
+/*INSTRUCTORES*/
+#instructores img{
+	height: 100%;
+}

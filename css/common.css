@@ -1,0 +1,82 @@
+/*GENERAL*/
+a{
+	text-decoration: none;
+	color: black;
+}
+
+img{
+	width: 100%;
+}
+*{
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 2% 0%;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: lighter;
+}
+.fazul{
+	background-color: #1A2952;
+}
+.gris{
+	color: #C4C6C5;
+}
+.grisf{
+	color: #999A9C;
+}
+.white{
+	color: #FFFFFF;
+}
+.adorno{
+	width: 13%;
+	height: 5%;
+}
+button{
+	padding: 2% 8%;
+	border-radius: 4%;
+	border: none;
+	box-shadow: 2px 2px 1px #888;
+}
+button:hover{
+	background-color: #3C2952;
+	transition-duration: 0.5s;
+}
+.espacioi{
+	padding-left: 7%;
+}
+.linea{
+	border-bottom: 1px solid #999A9C;
+}
+/*HEADER*/
+header li{
+	display: inline-block;
+	padding: 0% 7%;
+}
+ header, header *{
+	margin: -1.3% 0%;
+}
+/*CONTÁCTANOS*/
+#contactanos{
+	background-image: url("../img/shoes_1.jpg");
+	margin-bottom: -6%;
+}
+#formulario *{
+	width: 50%;
+}
+#formulario input{
+	margin-bottom: 1%;
+}
+.form{
+	background-size: initial;
+	background-position: 2% 50%;
+	padding-left: 6%;
+}
+#nombre{
+	background-image: url("../img/usuario.png");
+}
+#mail{
+	background-image: url("../img/sobre.png");
+}
+#mensaje{
+	background-image: url("../img/lapiz.png");
+	background-position: 2% 5%;
+}

@@ -1,0 +1,38 @@
+/*GENERAL*/
+*{
+	background-position: center;
+}
+/*OFERTA DE CLASES*/
+#ofertadeclases{
+	background-color: #F4F4F4;
+}
+
+.cuadrogris{
+	background-color: black;
+	opacity: 0.8;
+	margin: 65% 5%;
+	padding:10% 0% 10%15%;
+}
+#dancem, #kids{
+	background-size: 90% 100%;
+}
+#ballet{
+	background-image: url("../img/dance_12.jpg");
+}
+
+#dancem{
+	background-image: url("../img/breakdance.jpg");
+	
+}
+#jazzliric{
+	background-image: url("../img/lirical-jazz.jpg");	
+}
+#arabic{
+	background-image: url("../img/arabe.jpg");	
+}
+#kids{
+	background-image: url("../img/little.jpg");	
+}
+#yoga{
+	background-image: url("../img/yoga.jpg");	
+}

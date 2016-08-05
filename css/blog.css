@@ -1,0 +1,25 @@
+/*BLOG*/
+#blog{
+	background-color: #F4F4F4;
+}
+
+#foto1, #foto2, #foto3, .articulo{
+	height: 350px;
+	background-size: 100% 100%;
+}
+#foto1{
+	background-image: url("../img/blog1.jpg");
+}
+#foto2{
+	background-image: url("../img/profesor_5.jpg");
+}
+#foto3{
+	background-image: url("../img/instructor_3.jpg");
+}
+.articulo{
+	background-color: #DDDFE0; 
+}
+
+.smargen{
+	margin-bottom: -10%;
+}

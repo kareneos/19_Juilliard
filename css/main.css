@@ -1,0 +1,46 @@
+/*GENERAL*/
+/*STUDIO*/
+#studio{
+	background-image: url("../img/dance_1.jpg");
+	padding-left: 3%;
+
+}
+#studio h2{
+	font-size: 50px;
+}
+#studio p{
+	padding-right: 70%;
+}
+#studio a{
+	padding-left: 5%;
+}
+/*OFERTA DE CLASES*/
+#ofertadeclases, #frase{
+	background-image: url("../img/textura_2.jpg");
+}
+#ofertadeclases p{
+	padding: 0% 10%;
+}
+#ofertadeclases .adorno{
+	margin: -7% 0%;
+}
+/*NUESTROS INSTRUCTORES*/
+#instructores{
+	background-image: url("../img/instructor_4.jpg"), url("../img/profesor_9.jpg");
+	background-position: left top, right top;
+	background-size: 50% 140%;
+	height: 100%;
+}
+#instructores .col-12{
+	padding-top: 20%;
+	margin-bottom: -1.8%;
+}
+/*FRASE*/
+#frase h2{
+	padding:0% 7%;
+}
+/*MAPA*/
+iframe{
+	width: 100%;
+	padding: 2%;
+}
